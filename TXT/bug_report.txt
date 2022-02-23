@@ -1,0 +1,8 @@
+bug report name
+unique ID, priority, reporter, assignee
+preconditions
+STR
+Ex Result
+Ac Result
+прикрепить скриншот
+прикрепить видео, если есть
